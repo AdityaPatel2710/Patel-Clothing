@@ -95,18 +95,6 @@ Patel Clothing is a **stylish e-commerce storefront** that brings fashion to you
 - **Modern Aesthetics**: Clean, minimalist design with attention to detail
 - **Performance**: Optimized for speed and smooth interactions
 
-## 🔧 Architecture
-
-```
-src/
-├── components/          # Reusable UI components
-├── pages/              # Page components
-├── contexts/           # React Context providers
-├── hooks/              # Custom React hooks
-├── utils/              # Utility functions
-├── styles/             # SCSS modules
-└── firebase/           # Firebase configuration
-```
 
 ## 🌟 Future Enhancements
 
@@ -127,15 +115,11 @@ We love contributions! Here's how you can help:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Aditya Patel**
 - GitHub: [@AdityaPatel2710](https://github.com/AdityaPatel2710)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/aditya-patel-43554b248/)
 
 ## 🙏 Acknowledgments
 
